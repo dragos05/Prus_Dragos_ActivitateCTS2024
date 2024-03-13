@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activitate CTS.iml" filepath="$PROJECT_DIR$/Activitate CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 4/Seminar 4.iml" filepath="$PROJECT_DIR$/Seminar 4/Seminar 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_3/Seminar_3.iml" filepath="$PROJECT_DIR$/Seminar_3/Seminar_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar 2.iml" filepath="$PROJECT_DIR$/seminar 2.iml" />
     </modules>
   </component>
 </project>
